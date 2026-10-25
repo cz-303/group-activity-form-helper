@@ -1,0 +1,84 @@
+{
+  "kind": "GroupControl",
+  "name_category": "empty",
+  "children": [
+    {
+      "kind": "GroupControl",
+      "name_category": "empty",
+      "children": [
+        {
+          "kind": "GroupControl",
+          "name_category": "empty",
+          "children": [
+            {
+              "kind": "TextControl",
+              "name_category": "timestamp",
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "GroupControl",
+          "name_category": "empty",
+          "children": [
+            {
+              "kind": "GroupControl",
+              "name_category": "text",
+              "children": [
+                {
+                  "kind": "GroupControl",
+                  "name_category": "empty",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "GroupControl",
+              "name_category": "empty",
+              "children": []
+            },
+            {
+              "kind": "GroupControl",
+              "name_category": "empty",
+              "children": [
+                {
+                  "kind": "GroupControl",
+                  "name_category": "empty",
+                  "children": [
+                    {
+                      "kind": "GroupControl",
+                      "name_category": "empty",
+                      "children": [
+                        {
+                          "kind": "TextControl",
+                          "name_category": "text",
+                          "children": []
+                        },
+                        {
+                          "kind": "GroupControl",
+                          "name_category": "empty",
+                          "children": [
+                            {
+                              "kind": "TextControl",
+                              "name_category": "test-form-link",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "GroupControl",
+              "name_category": "empty",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

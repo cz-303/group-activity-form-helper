@@ -1,0 +1,5 @@
+playwright==1.63.0
+uiautomation==2.0.29
+pystray==0.19.5
+Pillow==12.3.0
+zxing-cpp==3.1.1

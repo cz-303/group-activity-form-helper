@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+# Never commit personal data, browser profiles or test reports
+data/
+app/data/
+*.sqlite3
+*.log
+regression-*.json
+bundle-test.json

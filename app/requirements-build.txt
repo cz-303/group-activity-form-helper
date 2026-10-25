@@ -1,0 +1,17 @@
+altgraph==0.17.5
+comtypes==1.4.17
+greenlet==3.5.6
+packaging==26.3
+pefile==2024.8.26
+pillow==12.3.0
+playwright==1.63.0
+pyee==13.0.1
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.7
+pystray==0.19.5
+pywin32-ctypes==0.2.3
+setuptools==84.0.0
+six==1.17.0
+typing_extensions==4.16.0
+uiautomation==2.0.29
+zxing-cpp==3.1.1

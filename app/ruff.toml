@@ -1,0 +1,10 @@
+# Formatting/lint config for 群活动填表助手 source. Tests and vendored third_party are excluded.
+line-length = 120
+target-version = "py312"
+extend-exclude = ["tests", "third_party"]
+
+[format]
+quote-style = "preserve"
+
+[lint]
+select = ["E9", "F63", "F7", "F82"]
