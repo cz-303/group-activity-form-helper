@@ -14,6 +14,10 @@
 
 </details>
 
+## 下载
+
+到 [Releases](https://github.com/cz-303/group-activity-form-helper/releases/latest) 下载 `GroupActivityFormHelper-1.1-Setup.exe`（安装程序，推荐）或 `GroupActivityFormHelper-1.1-Portable.zip`（免安装目录版）。程序未做代码签名，首次运行若出现“Windows 已保护你的电脑”，点“更多信息 → 仍要运行”。
+
 ## 功能
 
 - **捕获通知**：监测设置中的目标群，识别腾讯收集表、腾讯在线表格、金山文档的 HTTPS 分享链接，保存通知原文并合并重复链接；也可以粘贴通知文字手动导入。
